@@ -12,7 +12,7 @@
 # Country:               DE
 # Latitude (DD):       49.911575
 # Longitude (DD):      7.910784
-# Catchment area (km²):      4013.0
+# Catchment area (kmÂ²):      4013.0
 # Altitude (m ASL):        85.0
 # Next downstream station:      6335100
 # Remarks:               
@@ -21,7 +21,7 @@
 #
 # Data Set Content:      MEAN DAILY DISCHARGE (Q)
 #                        --------------------
-# Unit of measure:                  m³/s
+# Unit of measure:                  mÂ³/s
 # Time series:           1935-11 - 2016-12
 # No. of years:          82
 # Last update:           2018-05-24
